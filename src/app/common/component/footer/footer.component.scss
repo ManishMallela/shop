@@ -1,0 +1,26 @@
+//generate css code for footer component and add the following code
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-left {
+  float: left;
+}
+
+.footer-right {
+  float: right;
+}
+
+.logo {
+  width: 20px;
+  height: 20px;
+  padding: auto;
+}
